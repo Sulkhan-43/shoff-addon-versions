@@ -3,19 +3,23 @@
   "addons": {
     "ForeverSpellDamage": {
       "version": "0.3.0",
-      "notes": "Periodic spell estimates and character school critical chance."
+      "notes": "Periodic spell estimates and character school critical chance.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverSpellDamage-v0.3.0/ForeverSpellDamage-0.3.0.zip"
     },
     "ForeverMailSound": {
       "version": "0.1.0",
-      "notes": "Custom new-mail sound with preview and saved alert toggle."
+      "notes": "Custom new-mail sound with preview and saved alert toggle.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverMailSound-v0.1.0/ForeverMailSound-0.1.0.zip"
     },
     "ForeverCooldowns": {
       "version": "0.1.1",
-      "notes": "Saved on/off control and Shoff viewer integration."
+      "notes": "Saved on/off control and Shoff viewer integration.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverCooldowns-v0.1.1/ForeverCooldowns-0.1.1.zip"
     },
     "Shoff-Addon-Viewer": {
       "version": "0.2.1",
-      "notes": "Scrollable details and measured text layout fix overflowing controls; independent addon version status."
+      "notes": "Scrollable details and measured text layout fix overflowing controls; independent addon version status.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.2.1/Shoff-Addon-Viewer-0.2.1.zip"
     }
   }
 }
