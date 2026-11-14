@@ -2,9 +2,9 @@
   "schema": 1,
   "addons": {
     "ForeverSpellDamage": {
-      "version": "0.3.0",
-      "notes": "Periodic spell estimates and character school critical chance.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverSpellDamage-v0.3.0/ForeverSpellDamage-0.3.0.zip"
+      "version": "0.4.0",
+      "notes": "Read-only estimate API for standalone rank comparisons.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverSpellDamage-v0.4.0/ForeverSpellDamage-0.4.0.zip"
     },
     "ForeverMailSound": {
       "version": "0.1.0",
@@ -17,9 +17,34 @@
       "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverCooldowns-v0.1.1/ForeverCooldowns-0.1.1.zip"
     },
     "Shoff-Addon-Viewer": {
-      "version": "0.2.1",
-      "notes": "Scrollable details and measured text layout fix overflowing controls; independent addon version status.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.2.1/Shoff-Addon-Viewer-0.2.1.zip"
+      "version": "0.3.0",
+      "notes": "Gathering and utility addons; per-character enable controls excluding the viewer itself.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.3.0/Shoff-Addon-Viewer-0.3.0.zip"
+    },
+    "ForeverGatheringCoach": {
+      "version": "0.1.0",
+      "notes": "Three-profession skill guidance and self-loot farming sessions.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverGatheringCoach-v0.1.0/ForeverGatheringCoach-0.1.0.zip"
+    },
+    "ForeverRankAdvisor": {
+      "version": "0.1.0",
+      "notes": "Compare learned ranks using current tooltip amounts and mana efficiency.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverRankAdvisor-v0.1.0/ForeverRankAdvisor-0.1.0.zip"
+    },
+    "ForeverBuffReminder": {
+      "version": "0.1.0",
+      "notes": "Quiet reminders for watched self buffs and weapon enhancements.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverBuffReminder-v0.1.0/ForeverBuffReminder-0.1.0.zip"
+    },
+    "ForeverTrainerPlanner": {
+      "version": "0.1.0",
+      "notes": "Offline class and profession references with observed Forever training prices.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverTrainerPlanner-v0.1.0/ForeverTrainerPlanner-0.1.0.zip"
+    },
+    "ForeverVendorProtection": {
+      "version": "0.1.0",
+      "notes": "Protected items and explicit per-stack reviewed merchant sales.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverVendorProtection-v0.1.0/ForeverVendorProtection-0.1.0.zip"
     }
   }
 }
