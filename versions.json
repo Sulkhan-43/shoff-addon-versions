@@ -15,7 +15,7 @@
     },
     "Shoff-Addon-Viewer": {
       "version": "0.2.1",
-      "notes": "Fix overflowing controls with a scrollable details panel and measured text layout; show independent addon version status."
+      "notes": "Scrollable details and measured text layout fix overflowing controls; independent addon version status."
     }
   }
 }
