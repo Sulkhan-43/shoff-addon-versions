@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "addons": {
+    "ForeverSpellDamage": {
+      "version": "0.3.0",
+      "notes": "Periodic spell estimates and character school critical chance."
+    },
+    "ForeverMailSound": {
+      "version": "0.1.0",
+      "notes": "Custom new-mail sound with preview and saved alert toggle."
+    },
+    "ForeverCooldowns": {
+      "version": "0.1.1",
+      "notes": "Saved on/off control and Shoff viewer integration."
+    },
+    "Shoff-Addon-Viewer": {
+      "version": "0.2.0",
+      "notes": "Independent addon versions, release catalog, and update indicators."
+    }
+  }
+}
