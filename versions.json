@@ -12,14 +12,14 @@
       "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverMailSound-v0.1.0/ForeverMailSound-0.1.0.zip"
     },
     "ForeverCooldowns": {
-      "version": "0.1.1",
-      "notes": "Saved on/off control and Shoff viewer integration.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverCooldowns-v0.1.1/ForeverCooldowns-0.1.1.zip"
+      "version": "0.1.2",
+      "notes": "Use native countdown rendering for engine-managed and restricted cooldowns; restore prior countdown settings when disabled and add /fcd debug.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverCooldowns-v0.1.2/ForeverCooldowns-0.1.2.zip"
     },
     "Shoff-Addon-Viewer": {
-      "version": "0.5.1",
-      "notes": "Clarifies that rank availability controls show unlearned ranks eligible by current level.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.5.1/Shoff-Addon-Viewer-0.5.1.zip"
+      "version": "0.5.2",
+      "notes": "Update Cooldowns integration for native rendering and expose cooldown diagnostics.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.5.2/Shoff-Addon-Viewer-0.5.2.zip"
     },
     "ForeverGatheringCoach": {
       "version": "0.3.2",
