@@ -17,14 +17,14 @@
       "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverCooldowns-v0.1.2/ForeverCooldowns-0.1.2.zip"
     },
     "Shoff-Addon-Viewer": {
-      "version": "0.6.0",
-      "notes": "Add a Cloth farming session shortcut and update the Gathering Coach catalog description.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.6.0/Shoff-Addon-Viewer-0.6.0.zip"
+      "version": "0.6.1",
+      "notes": "Describe Gathering Coach auction-value estimates, price freshness and missing-price behavior in the catalog.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.6.1/Shoff-Addon-Viewer-0.6.1.zip"
     },
     "ForeverGatheringCoach": {
-      "version": "0.4.0",
-      "notes": "Add a Cloth farming session tab for Linen, Wool, Silk, Mageweave, Runecloth and Felcloth, with totals, hourly rates and saved category selection.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverGatheringCoach-v0.4.0/ForeverGatheringCoach-0.4.0.zip"
+      "version": "0.5.0",
+      "notes": "Estimate looted material sale value using Auctionator cached unit prices, with tab and session totals, hourly rates, price age and missing-price warnings; values are before fees.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverGatheringCoach-v0.5.0/ForeverGatheringCoach-0.5.0.zip"
     },
     "ForeverRankAdvisor": {
       "version": "0.3.2",
