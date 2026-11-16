@@ -22,9 +22,9 @@
       "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.5.1/Shoff-Addon-Viewer-0.5.1.zip"
     },
     "ForeverGatheringCoach": {
-      "version": "0.3.1",
-      "notes": "Track Forever Frilled Lichen (item 249399) as an Herbalism material, including session totals and hourly rates.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverGatheringCoach-v0.3.1/ForeverGatheringCoach-0.3.1.zip"
+      "version": "0.3.2",
+      "notes": "Audit all gathering material lists: add Forever scarce herbs, seeds, ores and hides plus missing Classic stones, gems and specialist skins.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverGatheringCoach-v0.3.2/ForeverGatheringCoach-0.3.2.zip"
     },
     "ForeverRankAdvisor": {
       "version": "0.3.2",
