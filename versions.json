@@ -2,9 +2,9 @@
   "schema": 1,
   "addons": {
     "ForeverSpellDamage": {
-      "version": "0.4.0",
-      "notes": "Read-only estimate API for standalone rank comparisons.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverSpellDamage-v0.4.0/ForeverSpellDamage-0.4.0.zip"
+      "version": "0.4.1",
+      "notes": "Parses mixed instant and periodic damage such as Flame Shock.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverSpellDamage-v0.4.1/ForeverSpellDamage-0.4.1.zip"
     },
     "ForeverMailSound": {
       "version": "0.1.0",
@@ -17,19 +17,19 @@
       "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverCooldowns-v0.1.1/ForeverCooldowns-0.1.1.zip"
     },
     "Shoff-Addon-Viewer": {
-      "version": "0.3.0",
-      "notes": "Gathering and utility addons; per-character enable controls excluding the viewer itself.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.3.0/Shoff-Addon-Viewer-0.3.0.zip"
+      "version": "0.5.1",
+      "notes": "Clarifies that rank availability controls show unlearned ranks eligible by current level.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/Shoff-Addon-Viewer-v0.5.1/Shoff-Addon-Viewer-0.5.1.zip"
     },
     "ForeverGatheringCoach": {
-      "version": "0.1.0",
-      "notes": "Three-profession skill guidance and self-loot farming sessions.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverGatheringCoach-v0.1.0/ForeverGatheringCoach-0.1.0.zip"
+      "version": "0.3.1",
+      "notes": "Track Forever Frilled Lichen (item 249399) as an Herbalism material, including session totals and hourly rates.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverGatheringCoach-v0.3.1/ForeverGatheringCoach-0.3.1.zip"
     },
     "ForeverRankAdvisor": {
-      "version": "0.1.0",
-      "notes": "Compare learned ranks using current tooltip amounts and mana efficiency.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverRankAdvisor-v0.1.0/ForeverRankAdvisor-0.1.0.zip"
+      "version": "0.3.2",
+      "notes": "Syncs the parser fix for mixed direct and periodic damage tooltips.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverRankAdvisor-v0.3.2/ForeverRankAdvisor-0.3.2.zip"
     },
     "ForeverBuffReminder": {
       "version": "0.1.0",
@@ -37,9 +37,9 @@
       "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverBuffReminder-v0.1.0/ForeverBuffReminder-0.1.0.zip"
     },
     "ForeverTrainerPlanner": {
-      "version": "0.1.0",
-      "notes": "Offline class and profession references with observed Forever training prices.",
-      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverTrainerPlanner-v0.1.0/ForeverTrainerPlanner-0.1.0.zip"
+      "version": "0.3.0",
+      "notes": "Supplies complete class rank data for Spell Rank Advisor views.",
+      "download_url": "https://github.com/Sulkhan-43/shoff-addon-versions/releases/download/ForeverTrainerPlanner-v0.3.0/ForeverTrainerPlanner-0.3.0.zip"
     },
     "ForeverVendorProtection": {
       "version": "0.1.0",
